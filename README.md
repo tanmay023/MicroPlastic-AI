@@ -116,7 +116,3 @@ The application generates:
 ## ⭐ Support
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
-
----
-
-This is the right length for a **Version 1.0** repository. Once you add screenshots, documentation, and publish a paper, you can expand it into a more detailed README.
